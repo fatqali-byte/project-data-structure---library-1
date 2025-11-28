@@ -1,0 +1,5 @@
+4
+C++ Programming|Ahmed Ali|111111|Programming|2023|5|5|1
+Data Structures|Sarah Mohamed|222222|Programming|2022|3|3|1
+Mathematics|Dr. Sami|333333|Science|2021|2|2|1
+python|Ali|1000|programing|2000|1|1|1
